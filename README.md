@@ -32,10 +32,10 @@ All three conditions are evaluated on clean test accuracy and under white-box FG
 
 ```
 .
-├── MNIST_FINAL.ipynb        # Baseline vs. Human-in-the-Loop on MNIST
-├── CIFAR-10_FINAL.ipynb     # Baseline vs. Auto vs. Human on CIFAR-10 + transfer learning
-├── STL-10_FINAL.ipynb       # Baseline vs. Auto vs. Human on STL-10 + transfer learning
-├── paper/                   # IEEE DSC paper (LaTeX/PDF)
+├── 01_mnist.ipynb                                           # Baseline vs. Human-in-the-Loop on MNIST
+├── 02_cifar10.ipynb                                         # Baseline vs. Auto vs. Human on CIFAR-10 + transfer learning
+├── 03_stl10.ipynb                                           # Baseline vs. Auto vs. Human on STL-10 + transfer learning
+├── Human-Guided_Augmentation_Filtering_IEEE_DSC_2026.pdf    # IEEE DSC paper (LaTeX/PDF)
 └── README.md
 ```
 
