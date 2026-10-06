@@ -31,13 +31,11 @@ All three conditions are evaluated on clean test accuracy and under white-box FG
 ├── 02_cifar10.ipynb     # Baseline vs. Auto vs. Human on CIFAR-10, plus transfer learning
 ├── 03_stl10.ipynb       # Baseline vs. Auto vs. Human on STL-10, plus transfer learning
 ├── paper/               # Accepted manuscript (see note below)
-├── LICENSE
 =======
 ├── 01_mnist.ipynb                                           # Baseline vs. Human-in-the-Loop on MNIST
 ├── 02_cifar10.ipynb                                         # Baseline vs. Auto vs. Human on CIFAR-10 + transfer learning
 ├── 03_stl10.ipynb                                           # Baseline vs. Auto vs. Human on STL-10 + transfer learning
 ├── Human-Guided_Augmentation_Filtering_IEEE_DSC_2026.pdf    # IEEE DSC paper (LaTeX/PDF)
->>>>>>> 978240a96d7af522a772283232c0b428feb91289
 └── README.md
 ```
 
