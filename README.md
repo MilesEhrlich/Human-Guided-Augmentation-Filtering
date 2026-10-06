@@ -165,7 +165,3 @@ The `paper/` folder contains the accepted manuscript. [Add the IEEE copyright no
 ## Limitations
 
 Results are based on ten-class datasets, a single human reviewer, and white-box attacks only. Future work includes larger and fine-grained datasets, multiple reviewers, black-box and transfer attacks, and vision-language models for scalable quality control.
-
-## License
-
-See [LICENSE](LICENSE).
