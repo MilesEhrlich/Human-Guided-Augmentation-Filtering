@@ -26,18 +26,10 @@ All three conditions are evaluated on clean test accuracy and under white-box FG
 
 ```
 .
-<<<<<<< HEAD
-├── 01_mnist.ipynb       # Baseline vs. Auto vs. Human on MNIST
-├── 02_cifar10.ipynb     # Baseline vs. Auto vs. Human on CIFAR-10, plus transfer learning
-├── 03_stl10.ipynb       # Baseline vs. Auto vs. Human on STL-10, plus transfer learning
-├── paper/               # Accepted manuscript (see note below)
-├── LICENSE
-=======
-├── 01_mnist.ipynb                                           # Baseline vs. Human-in-the-Loop on MNIST
-├── 02_cifar10.ipynb                                         # Baseline vs. Auto vs. Human on CIFAR-10 + transfer learning
-├── 03_stl10.ipynb                                           # Baseline vs. Auto vs. Human on STL-10 + transfer learning
-├── Human-Guided_Augmentation_Filtering_IEEE_DSC_2026.pdf    # IEEE DSC paper (LaTeX/PDF)
->>>>>>> 978240a96d7af522a772283232c0b428feb91289
+├── 01_mnist.ipynb                                          # Baseline vs. Auto vs. Human on MNIST
+├── 02_cifar10.ipynb                                        # Baseline vs. Auto vs. Human on CIFAR-10, plus transfer learning
+├── 03_stl10.ipynb                                          # Baseline vs. Auto vs. Human on STL-10, plus transfer learning
+├── Human-Guided_Augmentation_Filtering_IEEE_DSC_2026.pdf   # Accepted manuscript
 └── README.md
 ```
 
@@ -142,7 +134,7 @@ Each notebook follows the same general flow:
 
 ## Paper
 
-The `paper/` folder contains the accepted manuscript. [Add the IEEE copyright notice here and a link to the IEEE Xplore version once published.]
+`Human-Guided_Augmentation_Filtering_IEEE_DSC_2026.pdf` is the accepted manuscript. [Add the IEEE copyright notice here and a link to the IEEE Xplore version once published.]
 
 ## Citation
 
@@ -165,7 +157,3 @@ The `paper/` folder contains the accepted manuscript. [Add the IEEE copyright no
 ## Limitations
 
 Results are based on ten-class datasets, a single human reviewer, and white-box attacks only. Future work includes larger and fine-grained datasets, multiple reviewers, black-box and transfer attacks, and vision-language models for scalable quality control.
-
-## License
-
-See [LICENSE](LICENSE).
