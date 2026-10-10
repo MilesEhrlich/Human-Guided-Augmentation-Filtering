@@ -2,7 +2,7 @@
 
 Research code for a study on whether human-reviewed data augmentation improves image classifier performance and adversarial robustness compared to unfiltered augmentation and automated, confidence-based filtering.
 
-Accepted at the **IEEE Conference on Dependable and Secure Computing (DSC 2026)**, New York, NY, October 9 to 11, 2026.
+Presented at the **IEEE Conference on Dependable and Secure Computing (DSC 2026)**, New York, NY, October 9 to 11, 2026.
 
 ## Overview
 
